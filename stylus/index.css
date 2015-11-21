@@ -1,0 +1,202 @@
+body {
+  background: #e8e8e8;
+  font-family: Arial;
+  font-size: 16px;
+}
+body footer {
+  background: #dd4f24;
+  color: #fff;
+  text-align: center;
+  padding: 0.8em 0;
+  margin-top: 3em;
+  position: absolute;
+  top: 600px;
+  width: 1450px;
+}
+body footer h3 {
+  font-size: 14px;
+  font-weight: normal;
+}
+body header {
+  background: #0b0b61;
+  color: #fff;
+  overflow: hidden;
+  position: relative;
+}
+body header .header-log {
+  float: left;
+  padding: 1em;
+  width: 100px;
+}
+body header .header-log img {
+  border-right: 1px solid #fff;
+  heigth: 70px;
+  padding: 0.8em;
+  width: 80px;
+}
+body header .header-titulo {
+  font-size: 16px;
+  margin: 50px 0 0 200px;
+}
+body header .header-avatar {
+  position: absolute;
+  right: 30px;
+  top: 1px;
+}
+body header .header-avatar img {
+  border-radius: 60%;
+  width: 70px;
+}
+body nav {
+  background: #22bce0;
+  border-left: 20px solid #fff;
+}
+body nav .menu-ppal {
+  height: 40px;
+  line-height: 40px;
+  margin: 0;
+  padding: 0;
+}
+body nav .menu-ppal li {
+  display: inline-block;
+}
+body nav .menu-ppal li a {
+  color: #fff;
+  display: inline-block;
+  padding: 0 1em;
+  text-decoration: none;
+}
+body nav .menu-ppal li a:hover {
+  background: rgba(0,0,0,0.1);
+}
+body section .mensaje_envia {
+  width: 500px;
+  height: 120px;
+  position: absolute;
+  left: 200px;
+  top: 250px;
+}
+body section .section-avatar img {
+  border-radius: 60%;
+  width: 50px;
+}
+body section .me_textarea_envia textarea {
+  background-color: #e0f8f7;
+  border-radius: 25px;
+  overflow: auto;
+}
+body section .me_textarea_recibe textarea {
+  background-color: #f7f8e0;
+  border-radius: 25px;
+  width: 50px;
+  left: 150px;
+  top: 250px;
+}
+body section .me_textarea {
+  left: 20px;
+  position: absolute;
+  top: 10px;
+}
+body section .me_textarea textarea {
+  background-color: #e0f8f7;
+  border-radius: 25px;
+}
+body section .me_fecha {
+  left: 360px;
+  position: absolute;
+  width: 200px;
+  border: none solid;
+  box-shadow: none;
+  top: 70px;
+  font-size: 10px;
+  text-align: left;
+}
+body section .section-avatar2 img {
+  border-radius: 60%;
+  width: 50px;
+}
+body section .escribe_mesanje {
+  left: 220px;
+  width: 1500px;
+}
+body section .div_recibe {
+  position: relative;
+  left: 200px;
+}
+body section .mensaje_recibe {
+  width: 500px;
+  height: 120px;
+  left: 300px;
+  top: 350px;
+}
+body section .mensaje_recibe .nombre_recibe {
+  position: absolute;
+}
+body section .section-avatar2 img {
+  border-radius: 60%;
+  width: 50px;
+  left: 760px;
+  top: 350px;
+}
+body section .escribe_mesanje {
+  position: absolute;
+  left: 220px;
+  top: 470px;
+  width: 1500px;
+}
+body section .ingreso {
+  left: 950px;
+  position: absolute;
+  top: 300px;
+}
+body section .ingreso label {
+  color: #0072c6;
+  font-family: sans-serif bold;
+  font-size: 150%;
+  font-weight: bolder;
+}
+body section .ingreso .cIngreso {
+  height: 25px;
+  width: 300px;
+}
+body section .ingreso .cont-envio-submit {
+  background-color: #0072c6;
+  border: 0;
+  border: 0;
+  color: #fff;
+  font-family: "Segoe UI Semibold", "Segoe UI Web Semibold", "Segoe UI Web Regular", "Segoe UI", "Segoe UI Symbol", "HelveticaNeue-Medium", "Helvetica Neue", Arial, sans-serif;
+  height: 30px;
+  width: 90px;
+}
+body section .section {
+  left: 950px;
+  position: absolute;
+  top: 500px;
+}
+body section .link {
+  color: #0072c6;
+}
+body section .registrarse {
+  left: 950px;
+  position: absolute;
+  top: 590px;
+}
+body section .imggusta {
+  border-radius: 60%;
+  border: 0;
+}
+body section .favoritos {
+  border-radius: 20%;
+  background: #8ac007;
+  width: 200px;
+  position: absolute;
+  left: 950px;
+  top: 200px;
+}
+body .usuarioLogin {
+  background-color: #0b0b61;
+  width: 150px;
+  color: #fff;
+  border: 0;
+  text-align: center;
+}
